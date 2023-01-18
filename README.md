@@ -1,4 +1,5 @@
 ### Hi there 👋
+Profile is WIP; check back soon.
 
 <!--
 **topaz1008/topaz1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
