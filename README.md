@@ -9,11 +9,6 @@ I am currently looking for an opportunity to use my skills and contribute to a g
 
 <h2>My Projects</h2>
 
-## Real-time fluid simulation
-* [Real-Time Fluid Simulation](http://topaz1008.github.io/canvas-fluid-solver) - [README.md](https://github.com/topaz1008/canvas-fluid-solver/blob/master/README.md) - [Source Code](https://github.com/topaz1008/canvas-fluid-solver/)
-
-Real-time fluid simulation for games.
-
 Links are mostly to live demos, the project's readme file, and to the project's source code if one is interested 😉
 
 * [Real-Time Fluid Simulation](http://topaz1008.github.io/canvas-fluid-solver) - [README.md](https://github.com/topaz1008/canvas-fluid-solver/blob/master/README.md) - [Source Code](https://github.com/topaz1008/canvas-fluid-solver/)
