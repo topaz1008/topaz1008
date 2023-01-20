@@ -6,10 +6,10 @@ I am a software developer with 15+ years of experience in web development and ga
 I am highly motivated and passionate about coding, and have a deep understanding of modern web technologies.
 I have experience with a variety of languages and frameworks, and strive to use best practices to create robust and performant applications.
 I am currently looking for an opportunity to use my skills and contribute to a great team.
+#### Contact me: [Email](mailto:topaz1008@gmail.com) - [LinkedIn](https://www.linkedin.com/in/topazbar/)
 
 <h2>My Projects</h2>
-
-Links are mostly to live demos, the project's readme file, and to the project's source code if one is interested 😉
+Links are to live demos where applicable; the project's readme file, and to the project's source code if one is interested 😉
 
 * [Real-Time Fluid Simulation](http://topaz1008.github.io/canvas-fluid-solver) - [README.md](https://github.com/topaz1008/canvas-fluid-solver/blob/master/README.md) - [Source Code](https://github.com/topaz1008/canvas-fluid-solver/)
 
