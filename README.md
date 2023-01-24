@@ -14,7 +14,7 @@ Here you can find partial portfolio of my work from past, and present.
 
 Links are mostly to live demos where applicable; the project's readme file, and/or to the project's source code if one is interested 😉
 
-* [Real-Time Fluid Simulation](http://topaz1008.github.io/canvas-fluid-solver) - [README.md](https://github.com/topaz1008/canvas-fluid-solver/blob/master/README.md) - [Source Code](https://github.com/topaz1008/canvas-fluid-solver/)
+* [Real-Time Fluid Simulation](https://topaz1008.github.io/canvas-fluid-solver) - [README.md](https://github.com/topaz1008/canvas-fluid-solver/blob/master/README.md) - [Source Code](https://github.com/topaz1008/canvas-fluid-solver/)
 
 * [A Chaotic Double Pendulum Simulation](https://topaz1008.github.io/double-pendulum/pendulum.html) - [README.md](https://github.com/topaz1008/double-pendulum/blob/master/README.md) - [Source Code](https://github.com/topaz1008/double-pendulum/)
 
