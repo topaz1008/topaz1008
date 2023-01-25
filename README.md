@@ -7,7 +7,7 @@ I am highly motivated and passionate about coding, and have a deep understanding
 I have experience with a variety of languages and frameworks, and strive to use best practices to create robust and performant applications.
 I am currently looking for an opportunity to use my skills and contribute to a great team.
 
-#### Contact me: [Email](mailto:topaz1008@gmail.com) - [LinkedIn](https://www.linkedin.com/in/topazbar/)
+#### Contact me: [Email](mailto:topaz1008@gmail.com) - [LinkedIn](https://www.linkedin.com/in/topazbar/) - [Website](https://www.topaz1008.com/)
 
 <h2>My Projects</h2>
 Here you can find partial portfolio of my work from past, and present.
