@@ -28,6 +28,6 @@ Links are mostly to live demos where applicable; the project's readme file, and/
 
 * Demo: [WebGL Animated Julia Set](https://topaz1008.github.io/webgl-julia-set/) - [Source Code](https://github.com/topaz1008/webgl-julia-set/)
 
-* Source Code: [ffmpeg-any](https://github.com/topaz1008/ffmpeg-any) - A command line tool written in Node.js that batch processes video files and directories with ffmpeg.
+* Project: [ffmpeg-any](https://github.com/topaz1008/ffmpeg-any) - A command line tool written in Node.js that batch processes video files and directories with ffmpeg.
 
-* Source Code: [WinRay](https://github.com/topaz1008/win-ray) - A simple raytracer written in C++.
+* Project: [WinRay](https://github.com/topaz1008/win-ray) - A simple raytracer written in C++.
