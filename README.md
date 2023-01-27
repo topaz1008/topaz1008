@@ -14,20 +14,20 @@ Here you can find partial portfolio of my work from past, and present.
 
 Links are mostly to live demos where applicable; the project's readme file, and/or to the project's source code if one is interested 😉
 
-* [Real-Time Fluid Simulation](https://topaz1008.github.io/canvas-fluid-solver) - [README.md](https://github.com/topaz1008/canvas-fluid-solver/blob/master/README.md) - [Source Code](https://github.com/topaz1008/canvas-fluid-solver/)
+* Demo: [Real-Time Fluid Simulation](https://topaz1008.github.io/canvas-fluid-solver) - [Source Code](https://github.com/topaz1008/canvas-fluid-solver/)
 
-* [A Chaotic Double Pendulum Simulation](https://topaz1008.github.io/double-pendulum/pendulum.html) - [README.md](https://github.com/topaz1008/double-pendulum/blob/master/README.md) - [Source Code](https://github.com/topaz1008/double-pendulum/)
+* Demo: [A Chaotic Double Pendulum Simulation](https://topaz1008.github.io/double-pendulum/pendulum.html) - [Source Code](https://github.com/topaz1008/double-pendulum/)
 
-* [Breakable Rigid-Bodies Using Voronoi Diagrams](https://topaz1008.github.io/voronoi-breakable/) - [README.md](https://github.com/topaz1008/voronoi-breakable/blob/master/README.md) - [Source Code](https://github.com/topaz1008/voronoi-breakable/)
+* Demo: [Breakable Rigid-Bodies Using Voronoi Diagrams](https://topaz1008.github.io/voronoi-breakable/) - [Source Code](https://github.com/topaz1008/voronoi-breakable/)
 
-* [Node-Garden Effect Using Uniform Space Partitioning](https://topaz1008.github.io/canvas-node-garden/) - [README.md](https://github.com/topaz1008/canvas-node-garden/blob/master/README.md) - [Source Code](https://github.com/topaz1008/canvas-node-garden/)
+* Demo: [Node-Garden Effect Using Uniform Space Partitioning](https://topaz1008.github.io/canvas-node-garden/) - [Source Code](https://github.com/topaz1008/canvas-node-garden/)
 
-* [Extendable Emitter Based Particle System](https://topaz1008.github.io/canvas-particle-system/) - [README.md](https://github.com/topaz1008/canvas-particle-system/blob/master/README.md) - [Source Code](https://github.com/topaz1008/canvas-particle-system/)
+* Demo: [Extendable Emitter Based Particle System](https://topaz1008.github.io/canvas-particle-system/) - [Source Code](https://github.com/topaz1008/canvas-particle-system/)
 
-* [A Simple Javascript Raytracer](https://topaz1008.github.io/canvas-raytracer/) - [README.md](https://github.com/topaz1008/canvas-raytracer/blob/master/README.md) - [Source Code](https://github.com/topaz1008/canvas-raytracer/)
+* Demo: [A Simple Javascript Raytracer](https://topaz1008.github.io/canvas-raytracer/) - [Source Code](https://github.com/topaz1008/canvas-raytracer/)
 
-* [WebGL Animated Julia Set](https://topaz1008.github.io/webgl-julia-set/) - [README.md](https://github.com/topaz1008/webgl-julia-set/blob/master/README.md) - [Source Code](https://github.com/topaz1008/webgl-julia-set/)
+* Demo: [WebGL Animated Julia Set](https://topaz1008.github.io/webgl-julia-set/) - [Source Code](https://github.com/topaz1008/webgl-julia-set/)
 
-* [ffmpeg-any](https://github.com/topaz1008/ffmpeg-any) - [README.md](https://github.com/topaz1008/ffmpeg-any/blob/master/README.md) - A command line tool written in Node.js that batch processes video files and directories with ffmpeg.
+* Source Code: [ffmpeg-any](https://github.com/topaz1008/ffmpeg-any) - A command line tool written in Node.js that batch processes video files and directories with ffmpeg.
 
-* [WinRay](https://github.com/topaz1008/win-ray) - [README.md](https://github.com/topaz1008/win-ray/blob/master/README.md) - A simple raytracer written in C++.
+* Source Code: [WinRay](https://github.com/topaz1008/win-ray) - A simple raytracer written in C++.
