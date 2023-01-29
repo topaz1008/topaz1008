@@ -1,7 +1,7 @@
-<h2>Hi there 👋</h2>
+<h2>Hi There 👋</h2>
 Profile is WIP; check back soon for updates.
 
-<h2>About me</h2>
+<h2>About Me</h2>
 I am a software developer with 15+ years of experience in web development and game/graphics programming.
 I am highly motivated and passionate about coding, and have a deep understanding of modern web technologies.
 I have experience with a variety of languages and frameworks, and strive to use best practices to create robust and performant applications.
