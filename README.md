@@ -10,14 +10,14 @@ I am currently looking for an opportunity to use my skills and contribute to a g
 #### Contact me: [Email](mailto:topaz1008@gmail.com) - [LinkedIn](https://www.linkedin.com/in/topazbar/) - [Website](https://www.topaz1008.com/)
 
 <h2>My Projects</h2>
-Here you can find partial portfolio of my work from past, and present.
+Here you can find partial portfolio of my hobby projects from past, and present.
 
 Links are mostly to live demos where applicable; and/or to the project's source code if one is interested 😉
 
 * Live Demos
   * [Real-Time Fluid Simulation](https://topaz1008.github.io/canvas-fluid-solver) - [Source Code](https://github.com/topaz1008/canvas-fluid-solver/)
 
-  * [A Chaotic Double Pendulum Simulation](https://topaz1008.github.io/double-pendulum/pendulum.html) - [Source Code](https://github.com/topaz1008/double-pendulum/)
+  * [A Double Pendulum Simulation](https://topaz1008.github.io/double-pendulum/pendulum.html) - [Source Code](https://github.com/topaz1008/double-pendulum/)
 
   * [Breakable Rigid-Bodies Using Voronoi Diagrams](https://topaz1008.github.io/voronoi-breakable/) - [Source Code](https://github.com/topaz1008/voronoi-breakable/)
 
