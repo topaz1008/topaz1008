@@ -15,19 +15,21 @@ Here you can find partial portfolio of my hobby projects from past, and present.
 Links are mostly to live demos where applicable; and/or to the project's source code if one is interested 😉
 
 * Live Demos
-  * [Real-Time Fluid Simulation](https://topaz1008.github.io/canvas-fluid-solver) - [Source Code](https://github.com/topaz1008/canvas-fluid-solver/)
+  * [Real-Time fluid simulation](https://topaz1008.github.io/canvas-fluid-solver) - [Source Code](https://github.com/topaz1008/canvas-fluid-solver/)
 
-  * [A Double Pendulum Simulation](https://topaz1008.github.io/double-pendulum/pendulum.html) - [Source Code](https://github.com/topaz1008/double-pendulum/)
+  * [A double pendulum simulation](https://topaz1008.github.io/double-pendulum/pendulum.html) - [Source Code](https://github.com/topaz1008/double-pendulum/)
 
-  * [Breakable Rigid-Bodies Using Voronoi Diagrams](https://topaz1008.github.io/voronoi-breakable/) - [Source Code](https://github.com/topaz1008/voronoi-breakable/)
+  * [Breakable rigid-Bodies using Voronoi diagrams](https://topaz1008.github.io/voronoi-breakable/) - [Source Code](https://github.com/topaz1008/voronoi-breakable/)
 
-  * [Node-Garden Effect Using Uniform Space Partitioning](https://topaz1008.github.io/canvas-node-garden/) - [Source Code](https://github.com/topaz1008/canvas-node-garden/)
+  * [Node-Garden effect using uniform space partitioning](https://topaz1008.github.io/canvas-node-garden/) - [Source Code](https://github.com/topaz1008/canvas-node-garden/)
 
-  * [Extendable Emitter Based Particle System](https://topaz1008.github.io/canvas-particle-system/) - [Source Code](https://github.com/topaz1008/canvas-particle-system/)
+  * [Extendable emitter based particle pystem](https://topaz1008.github.io/canvas-particle-system/) - [Source Code](https://github.com/topaz1008/canvas-particle-system/)
+  
+  * [Cloth effect using verlet integration](https://topaz1008.github.io/verlet-integration/) - [Source Code](https://github.com/topaz1008/verlet-integration/)
 
-  * [A Simple Javascript Raytracer](https://topaz1008.github.io/canvas-raytracer/) - [Source Code](https://github.com/topaz1008/canvas-raytracer/)
+  * [A simple javascript raytracer](https://topaz1008.github.io/canvas-raytracer/) - [Source Code](https://github.com/topaz1008/canvas-raytracer/)
 
-  * [WebGL Animated Julia Set](https://topaz1008.github.io/webgl-julia-set/) - [Source Code](https://github.com/topaz1008/webgl-julia-set/)
+  * [WebGL animated Julia set](https://topaz1008.github.io/webgl-julia-set/) - [Source Code](https://github.com/topaz1008/webgl-julia-set/)
 
 * Projects
   * [ffmpeg-any](https://github.com/topaz1008/ffmpeg-any) - A command line tool written in Node.js that batch processes video files and directories with ffmpeg.
