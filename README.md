@@ -19,11 +19,11 @@ Links are mostly to live demos where applicable; and/or to the project's source 
 
   * [A double pendulum simulation](https://topaz1008.github.io/double-pendulum/pendulum.html) - [Source Code](https://github.com/topaz1008/double-pendulum/)
 
-  * [Breakable rigid-Bodies using Voronoi diagrams](https://topaz1008.github.io/voronoi-breakable/) - [Source Code](https://github.com/topaz1008/voronoi-breakable/)
+  * [Breakable rigid-bodies using Voronoi diagrams](https://topaz1008.github.io/voronoi-breakable/) - [Source Code](https://github.com/topaz1008/voronoi-breakable/)
 
   * [Node-Garden effect using uniform space partitioning](https://topaz1008.github.io/canvas-node-garden/) - [Source Code](https://github.com/topaz1008/canvas-node-garden/)
 
-  * [Extendable emitter based particle pystem](https://topaz1008.github.io/canvas-particle-system/) - [Source Code](https://github.com/topaz1008/canvas-particle-system/)
+  * [Extendable emitter based particle system](https://topaz1008.github.io/canvas-particle-system/) - [Source Code](https://github.com/topaz1008/canvas-particle-system/)
   
   * [Cloth effect using verlet integration](https://topaz1008.github.io/verlet-integration/) - [Source Code](https://github.com/topaz1008/verlet-integration/)
 
