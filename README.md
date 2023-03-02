@@ -7,7 +7,7 @@ I am currently looking for an opportunity to use my skills and contribute to a g
 #### Contact me: [Email](mailto:topaz1008@gmail.com) - [LinkedIn](https://www.linkedin.com/in/topazbar/) - [Website](https://www.topaz1008.com/)
 
 <h2>My Projects</h2>
-Here you can find partial portfolio of my hobby projects from past, and present.
+Here you can find a partial portfolio of my hobby projects from past, and present.
 
 Links are mostly to live demos where applicable; and/or to the project's source code if one is interested 😉
 
