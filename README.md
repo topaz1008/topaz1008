@@ -23,5 +23,5 @@ Links are mostly to live demos where applicable; and/or to the project's source 
 
 * Projects
   * [ffmpeg-any](https://github.com/topaz1008/ffmpeg-any) - A command line tool that batch processes video files and directories with ffmpeg.
-  * [urls-downloader](https://github.com/topaz1008/urls-downloader) - A generic url(s) downloader using got.
+  * [urls-downloader](https://github.com/topaz1008/urls-downloader) - A generic batch url(s) downloader using got.
   * [WinRay](https://github.com/topaz1008/win-ray) - A simple raytracer for Windows written in C++.
