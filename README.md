@@ -4,6 +4,10 @@ I am highly motivated and passionate about coding, and have a deep understanding
 I have experience with a variety of languages and frameworks, and strive to use best practices to create robust and performant applications.
 I am currently looking for an opportunity to use my skills and contribute to a great team.
 
+I have experience with the following technologies: Javascript (ES6+), Typescript, AngularJS, Angular2+, 
+React.js, Node.js, Express, Socket.io, MongoDB, MySQL, C#, Unity, WebGL, Three.js, PHP, Symfony2, C, C++, 
+Mathematica and more.
+
 #### Contact me: [Email](mailto:topaz1008@gmail.com) - [LinkedIn](https://www.linkedin.com/in/topazbar/) - [Website](https://www.topaz1008.com/)
 
 <h2>My Projects</h2>
