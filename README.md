@@ -6,8 +6,8 @@ I am currently looking for an opportunity to use my skills and contribute to a g
 
 #### My Skills:
 I have experience with the following technologies: Javascript (ES6+), Typescript, AngularJS, Angular2+, 
-React.js, Node.js, Express, Socket.io, MongoDB, MySQL, C#, Unity, WebGL, Three.js, PHP, Symfony2, C, C++, 
-Mathematica and more.
+React.js, Node.js, Express, Socket.io, MongoDB, MySQL, C#, Unity, WebGL, Three.js, PHP, Symfony2, C, C++,
+Wolfram Mathematica and many more.
 
 #### Contact me: [Email](mailto:topaz1008@gmail.com) - [LinkedIn](https://www.linkedin.com/in/topazbar/) - [Website](https://www.topaz1008.com/)
 
