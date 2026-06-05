@@ -1,12 +1,13 @@
 <h2>About Me</h2>
-I am a software developer with 18+ years of experience in web development and game/graphics programming.
+I am a software engineer/architect/tech-lead with 18+ years of experience in web development and game/graphics programming.
+I have extensive experience with software architecture, as well as building highly scalable and cost-effective AWS cloud systems from design to implementation.
 I am highly motivated and passionate about coding, and have a deep understanding of modern web technologies.
 I have experience with a variety of languages and frameworks, and strive to use best practices to create robust and performant applications.
 I am currently looking for an opportunity to use my skills and contribute to a great team.
 
 #### My Skills:
-I have experience with the following technologies: Javascript (ES6+), Typescript, AngularJS, Angular2+, 
-React.js, Node.js, Express, Socket.io, MongoDB, MySQL, C#, Unity, WebGL, Three.js, PHP, Symfony2, C, C++,
+I have experience with the following technologies: Javascript (ES6+), Typescript, Software Architecture, AWS (Cloud Design & Implementation), AngularJS, Angular2+, 
+React, Node.js, Express, Fastify, Next.js, NestJS, Socket.io, MongoDB, MySQL, C#, Unity, WebGL, Three.js, C, C++,
 Wolfram Mathematica and many more.
 
 #### Contact me: [Email](mailto:topaz1008@gmail.com) - [LinkedIn](https://www.linkedin.com/in/topazbar/) - [Website](https://www.topaz1008.com/)
@@ -14,7 +15,7 @@ Wolfram Mathematica and many more.
 <h2>My Projects</h2>
 Here you can find a partial portfolio of my hobby projects from past, and present.
 
-Links are mostly to live demos where applicable; and/or to the project's source code if one is interested 😉
+Links are mostly to live demos where applicable; and/or to the project's source code if one is interested.
 
 * Live Demos
   * [Real-Time fluid simulation](https://topaz1008.github.io/canvas-fluid-solver) - [Source Code](https://github.com/topaz1008/canvas-fluid-solver/)
