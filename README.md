@@ -1,5 +1,5 @@
 <h2>About Me</h2>
-I am a software developer with 15+ years of experience in web development and game/graphics programming.
+I am a software developer with 18+ years of experience in web development and game/graphics programming.
 I am highly motivated and passionate about coding, and have a deep understanding of modern web technologies.
 I have experience with a variety of languages and frameworks, and strive to use best practices to create robust and performant applications.
 I am currently looking for an opportunity to use my skills and contribute to a great team.
@@ -34,6 +34,8 @@ Links are mostly to live demos where applicable; and/or to the project's source 
   * [WebGL animated Julia set](https://topaz1008.github.io/webgl-julia-set/) - [Source Code](https://github.com/topaz1008/webgl-julia-set/)
 
 * Projects
+  * [SentenceToPassword](https://github.com/topaz1008/SentenceToPassword) - A KeePass 2.x password generator plugin that turns a memorable sentence into a password.
+
   * [ffmpeg-any](https://github.com/topaz1008/ffmpeg-any) - A command line tool that batch processes video files and directories with ffmpeg.
 
   * [urls-downloader](https://github.com/topaz1008/urls-downloader) - A generic batch url(s) downloader using got.
