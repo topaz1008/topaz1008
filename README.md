@@ -3,7 +3,6 @@ I am a software engineer/architect/tech-lead with 18+ years of experience in web
 I have extensive experience with software architecture, as well as building highly scalable and cost-effective AWS cloud systems from design to implementation.
 I am highly motivated and passionate about coding, and have a deep understanding of modern web technologies.
 I have experience with a variety of languages and frameworks, and strive to use best practices to create robust and performant applications.
-I am currently looking for an opportunity to use my skills and contribute to a great team.
 
 #### My Skills:
 I have experience with the following technologies: Javascript (ES6+), Typescript, Software Architecture, AWS (Cloud Design & Implementation), AngularJS, Angular2+, 
