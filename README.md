@@ -20,6 +20,8 @@ Links are mostly to live demos where applicable; and/or to the project's source 
   * [Real-Time fluid simulation](https://topaz1008.github.io/canvas-fluid-solver) - [Source Code](https://github.com/topaz1008/canvas-fluid-solver/)
 
   * [A double pendulum simulation](https://topaz1008.github.io/double-pendulum/pendulum.html) - [Source Code](https://github.com/topaz1008/double-pendulum/)
+  
+  * [A simple progressive raytracer](https://topaz1008.github.io/canvas-raytracer/) - [Source Code](https://github.com/topaz1008/canvas-raytracer/)
 
   * [Breakable rigid-bodies using Voronoi diagrams](https://topaz1008.github.io/voronoi-breakable/) - [Source Code](https://github.com/topaz1008/voronoi-breakable/)
   
@@ -28,8 +30,6 @@ Links are mostly to live demos where applicable; and/or to the project's source 
   * [Extendable emitter based particle system](https://topaz1008.github.io/canvas-particle-system/) - [Source Code](https://github.com/topaz1008/canvas-particle-system/)
   
   * [Cloth effect using verlet integration](https://topaz1008.github.io/verlet-integration/) - [Source Code](https://github.com/topaz1008/verlet-integration/)
-  
-  * [A simple javascript raytracer](https://topaz1008.github.io/canvas-raytracer/) - [Source Code](https://github.com/topaz1008/canvas-raytracer/)
   
   * [WebGL animated Julia set](https://topaz1008.github.io/webgl-julia-set/) - [Source Code](https://github.com/topaz1008/webgl-julia-set/)
 
