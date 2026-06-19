@@ -25,6 +25,8 @@ Links are mostly to live demos where applicable; and/or to the project's source 
 
   * [Breakable rigid-bodies using Voronoi diagrams](https://topaz1008.github.io/voronoi-breakable/) - [Source Code](https://github.com/topaz1008/voronoi-breakable/)
   
+  * [4D Raymarched Julia set (WebGL2)](https://topaz1008.github.io/4d-julia-set) - [Source Code](https://github.com/topaz1008/4d-julia-set)
+  
   * [Node-Garden effect using uniform space partitioning](https://topaz1008.github.io/canvas-node-garden/) - [Source Code](https://github.com/topaz1008/canvas-node-garden/)
   
   * [Extendable emitter based particle system](https://topaz1008.github.io/canvas-particle-system/) - [Source Code](https://github.com/topaz1008/canvas-particle-system/)
